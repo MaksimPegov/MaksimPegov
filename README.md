@@ -5,7 +5,7 @@ Student, Web developer
 ----------------------
 
 * 🌍  I'm based in Kraków, Poland
-* 🚀  I'm currently working on [TODOSS Application](http://github.com/MaksimPegov)
+* 🚀  I'm currently focused on learning new technoligies
 * 🧠  I'm learning Full Stack Web Development
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  And I'm a content creator on Tik-Tok 😉 @const\_code
