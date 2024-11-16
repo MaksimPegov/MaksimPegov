@@ -6,9 +6,9 @@ Student, Web developer
 
 * 🌍  I'm based in Kraków, Poland
 * 🚀  I'm currently focused on learning new technologies
-* 🧠  I'm learning Full Stack Web Development
+* 🧠  I'm Software Engineer | Full Stack Developer
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  And I'm a content creator on Tik-Tok 😉 @const\_code
+* ⚡  And I'm a content creator on Instagram and Tik-Tok
 
 ### Skills
 
